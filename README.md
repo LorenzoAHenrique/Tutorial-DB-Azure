@@ -10,8 +10,7 @@ Repositório criado para documentar o desafio da DIO sobre configuração de um 
 ## Passos Realizados
 1. Criação de um Resource Group no Azure.  
 2. Configuração de uma instância no Azure SQL Database.  
-3. Definição de servidor, usuário e firewall.  
-4. Teste de conexão via Query Editor no Portal Azure.  
+3. Definição de servidor, usuário.
 
 ## Dicas
 - Utilize Resource Groups para organizar recursos.  
